@@ -1,0 +1,3 @@
+name: BugCrusher
+version: '${version}'
+main: net.mythara.bugcrusher.BugCrusher
